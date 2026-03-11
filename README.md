@@ -155,7 +155,3 @@ Open `notebooks/01_smartcart_main_project.ipynb` and run all cells.
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 
 ---
-
-## 📄 License
-
-This project is for academic purposes — Unsupervised ML Assignment.
